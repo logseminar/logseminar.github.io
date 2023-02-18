@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Learning on Graphs Seminar (LOGS)
+# Introduction
 
 In recent years, due to the powerful expressive capability of graph structures, research on using machine learning methods to analyze graphs has received increasing attention. Graph Machine Learning (Graph ML) is a category of machine learning methods that are used to process information in the graph domain. The enthusiasm for research on Graph ML in the field of machine learning is on the rise, and it has become a hot topic at various deep neural network conferences.
 
 The Learning on Graphs Seminar (LOGS) organizes seminars related to graph learning on an irregular basis, inviting experts, frontline researchers, and top conference paper authors in the field to share their insights. It is hoped that this seminar will provide a platform for mutual communication, discussion, and learning.
+
+
 
