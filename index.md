@@ -4,7 +4,7 @@ layout: default
 
 # Learning On Graphs Seminar
 
-In recent years, the field of machine learning has witnessed a surge of interest in utilizing graph neural networks (GNNs) for analyzing and processing graph data. This powerful expressive capability of GNNs has sparked significant research activity in the domain of Graph Machine Learning (Graph ML). Graph ML is a category of machine learning methods specifically designed to handle information and data represented in the form of graphs.
+In recent years, the field of machine learning has witnessed a surge of interest in utilizing graph neural networks (GNNs) for analyzing and processing graph data. This powerful expressive capability of GNNs has sparked significant research activity in the domain of Graph Machine Learning (Graph ML). 
 
 The growing enthusiasm for Graph ML within the machine learning community has turned it into a prominent and highly-discussed topic at various deep neural network conferences. Researchers and practitioners are recognizing the potential of Graph ML to address a wide range of real-world problems, including social network analysis, recommendation systems, drug discovery, molecular chemistry, computer vision, and more. By leveraging the inherent structural relationships present in graph data, Graph ML techniques enable more effective and accurate analysis and predictions.
 
@@ -12,7 +12,7 @@ To foster collaboration, knowledge sharing, and intellectual growth, the Learnin
 
 By inviting renowned experts and prominent figures in the field, LOGS ensures that the seminars provide cutting-edge insights and the latest advancements in Graph ML. Participants have the opportunity to engage in meaningful discussions, exchange ideas, and gain valuable knowledge from the forefront of graph learning research. The seminar format allows for a collaborative environment where participants can explore new approaches, share their findings, and collectively push the boundaries of Graph ML.
 
-LOGS catalyzes innovation, inspiring researchers to explore novel techniques, develop robust algorithms, and tackle complex challenges associated with graph data analysis. Through LOGS, researchers can stay up-to-date with the rapidly evolving landscape of Graph ML and make meaningful contributions to this exciting and impactful field.
+LOGS aims to catalyze innovation, inspiring researchers to explore novel techniques, develop robust algorithms, and tackle complex challenges associated with graph data analysis. Through LOGS, researchers can stay up-to-date with the rapidly evolving landscape of Graph ML and make meaningful contributions to this exciting and impactful field.
 
 ## Find and Join Us
 
