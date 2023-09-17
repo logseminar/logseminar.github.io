@@ -33,7 +33,7 @@ LOGS aims to catalyze innovation, inspiring researchers to explore novel techniq
 
 - Cora（深度学习与图网络）
 
-- Mark（[深度学习与图网络]
+- Mark（深度学习与图网络）
 
 
 ## Previous Activities
