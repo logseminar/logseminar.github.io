@@ -31,9 +31,9 @@ LOGS aims to catalyze innovation, inspiring researchers to explore novel techniq
 
 - Li Sun (sunl8447@163.com)
 
-- Cora（[深度学习与图网络](https://hackmd.io/_uploads/rkJgQgByp.jpg)）
+- Cora（深度学习与图网络）
 
-- Mark（[深度学习与图网络](https://hackmd.io/_uploads/rkJgQgByp.jpg)）
+- Mark（[深度学习与图网络]
 
 
 ## Previous Activities
