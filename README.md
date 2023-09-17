@@ -1,6 +1,6 @@
 
 
-# Learning On Graphs Seminar
+# [Learning On Graphs Seminar](https://logseminar.github.io/)
 
 In recent years, the field of machine learning has witnessed a surge of interest in utilizing graph neural networks (GNNs) for analyzing and processing graph data. This powerful expressive capability of GNNs has sparked significant research activity in the domain of Graph Machine Learning (Graph ML). Graph ML is a category of machine learning methods specifically designed to handle information and data represented in the form of graphs.
 
