@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# LOGS
+# Learning On Graphs Seminar (LOGS)
 
 In recent years, the field of machine learning has witnessed a surge of interest in utilizing graph neural networks (GNNs) for analyzing and processing graph data. This powerful expressive capability of GNNs has sparked significant research activity in the domain of Graph Machine Learning (Graph ML). Graph ML is a category of machine learning methods specifically designed to handle information and data represented in the form of graphs.
 
@@ -14,11 +14,14 @@ By inviting renowned experts and prominent figures in the field, LOGS ensures th
 
 LOGS catalyzes innovation, inspiring researchers to explore novel techniques, develop robust algorithms, and tackle complex challenges associated with graph data analysis. Through LOGS, researchers can stay up-to-date with the rapidly evolving landscape of Graph ML and make meaningful contributions to this exciting and impactful field.
 
+## Find and Join Us
 
+- [WeChat Official Account | 微信公众号](https://mp.weixin.qq.com/s/DNIX0HKN3wnwRiy_7Iy0iA)
+- [Bilibili Video](https://space.bilibili.com/379472457)
+- logseminar@outlook.com
+- WeChat: GNN4AI
 
-## Activities
-
-
+## Previous Activities
 
 | Date         |   Topic  | Speaker  |Video           |
 | --------     | -------- | -------- | --------         |
